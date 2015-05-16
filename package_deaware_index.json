@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Deaware",
-          "url": "https://raw.githubusercontent.com/deaware/dwcloud_firmware_support/master/output/dwcloud-1.0.zip",
+          "url": "http://raw.githubusercontent.com/deaware/dwcloud_firmware_support/master/output/dwcloud-1.0.zip",
           "archiveFileName": "dwcloud-1.0.zip?raw=true",
           "checksum": "SHA-256:c3c59b25252fe5d314b33b245e445ebcab5462f649874f587821f8566eddda6f",
           "size": "84125",
