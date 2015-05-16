@@ -14,10 +14,10 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Deaware",
-          "url": "http://github.com/deaware/dwcloud_firmware_support/raw/master/output/dwcloud-1.0.zip",
+          "url": "http://github.com/deaware/dwcloud_firmware_support/raw/master/output/dwcloud-1.0.0.zip",
           "archiveFileName": "dwcloud-1.0.0.zip",
-          "checksum": "SHA-256:c3c59b25252fe5d314b33b245e445ebcab5462f649874f587821f8566eddda6f",
-          "size": "84125",
+          "checksum": "SHA-256:f3abde407b9068f32de9b72326289fc4b1a77c5bb8738fdcb3566b08c5da2196",
+          "size": "86324",
           "boards": [
             {"name": "DW.CLOUD"}
           ],
