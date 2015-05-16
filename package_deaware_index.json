@@ -16,8 +16,8 @@
           "category": "Deaware",
           "url": "http://github.com/deaware/dwcloud_firmware_support/raw/master/output/dwcloud-1.0.0.zip",
           "archiveFileName": "dwcloud-1.0.0.zip",
-          "checksum": "SHA-256:f3abde407b9068f32de9b72326289fc4b1a77c5bb8738fdcb3566b08c5da2196",
-          "size": "86324",
+          "checksum": "SHA-256:ed3b6c95fa9a86e38c76782d8f9b55dbc324118d199535bfe33c5b75135582a5",
+          "size": "86323",
           "boards": [
             {"name": "DW.CLOUD"}
           ],
