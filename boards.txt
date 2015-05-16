@@ -1,15 +1,13 @@
 ##############################################################
 dwcloud.name=DW.CLOUD
-
-dwcloud.menu.cpu.atmega324pa=ATmega324pa
-dwcloud.menu.cpu.atmega324pa.build.mcu=atmega324pa
-dwcloud.menu.cpu.atmega324pa.build.f_cpu=16000000L
-dwcloud.menu.cpu.atmega324pa.build.board=DW_CLOUD
-dwcloud.menu.cpu.atmega324pa.build.core=dwcloud
-dwcloud.menu.cpu.atmega324pa.build.variant=dwcloud
-dwcloud.menu.cpu.atmega324pa.upload.maximum_size=30720
-dwcloud.menu.cpu.atmega324pa.upload.maximum_data_size=2048
-dwcloud.menu.cpu.atmega324pa.upload.speed=57600
-dwcloud.menu.cpu.atmega324pa.upload.protocol=arduino
-dwcloud.menu.cpu.atmega324pa.upload.tool=arduino:avrdude
+dwcloud.build.mcu=atmega324pa
+dwcloud.build.f_cpu=16000000L
+dwcloud.build.board=DW_CLOUD
+dwcloud.build.core=dwcloud
+dwcloud.build.variant=dwcloud
+dwcloud.upload.maximum_size=30720
+dwcloud.upload.maximum_data_size=2048
+dwcloud.upload.speed=57600
+dwcloud.upload.protocol=arduino
+dwcloud.upload.tool=arduino:avrdude
 
