@@ -13,6 +13,7 @@ http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_in
 
 ![](http://github.com/deaware/dwcloud_firmware_support/raw/master/tutorial_images/insert_board_man_url.png)
 
+#### 2) Install **DW.CLOUD**
 * Open **"Boards Manager"** by goto **Tools > Board > Boards Manager...**
 ![](http://github.com/deaware/dwcloud_firmware_support/raw/master/tutorial_images/select_boards_manager.png)
 
