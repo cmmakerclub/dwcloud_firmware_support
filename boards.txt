@@ -1,6 +1,6 @@
 ##############################################################
 dwcloud.name=DW.CLOUD
-dwcloud.build.mcu=atmega324pa
+dwcloud.build.mcu=atmega324p
 dwcloud.build.f_cpu=16000000L
 dwcloud.build.board=DW_CLOUD
 dwcloud.build.core=dwcloud
