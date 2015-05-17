@@ -15,10 +15,13 @@ http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_in
 
 #### 2) Install **DW.CLOUD**
 * Open **"Boards Manager"** by goto **Tools > Board > Boards Manager...**
+
 ![](http://128.199.203.210/dwcloud_support/images/select_boards_manager.png)
 
 * Select **DW.CLOUD** and press **"Install"**
+
 ![](http://128.199.203.210/dwcloud_support/images/instsall_dwcloud.png)
 
 * Check the DW.CLOUD is ready to used by goto **Tools > Board** and you will see **"DW.CLOUD"** like a picture following below.
+
 ![](http://128.199.203.210/dwcloud_support/images/dwcloud_shown.png)
