@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Deaware",
+      "name": "DW.CLOUD",
       "maintainer": "Deaware",
       "websiteURL": "http://www.deaware.com/",
       "email": "burin@deaware.com",
@@ -59,7 +59,7 @@
           ],
           "toolsDependencies":[
             {
-              "packager":"Deaware",
+              "packager":"DW.CLOUD",
               "name":"esptool",
               "version":"0.4.2-winfix"
             }
