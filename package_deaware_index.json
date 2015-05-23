@@ -93,12 +93,12 @@
         {
           "name":"ESP8266",
           "architecture":"esp8266",
-          "version":"1.6.2.1",
+          "version":"1.6.3",
           "category":"Deaware",
-          "url":"http://github.com/deaware/dwminiesp_firmware_support/raw/master/output/dwminiesp-1.6.2.1.zip",
-          "archiveFileName":"dwminiesp-1.6.2.1.zip",
-          "checksum":"SHA-256:d93b122caec09a5362e6f3d78e495fdea9e69a2fe7f579c04a49833eb27c7b7d",
-          "size":"787611",
+          "url":"http://github.com/deaware/dwminiesp_firmware_support/raw/master/output/dwminiesp-1.6.3.zip",
+          "archiveFileName":"dwminiesp-1.6.3.zip",
+          "checksum":"SHA-256:38bdd88c7184a3dcb7b26260a40bea23a114531fceed30a12f6e6a9341d16840",
+          "size":"758601",
           "help":{
             "online":"http://www.deaware.com"
           },
