@@ -68,7 +68,7 @@ void setup() {
   esp.wifiConnect(WIFI_SSID, WIFI_PASS);
 }
 
-uint8_t buff[12];
+char buff[12];
 uint8_t count = 0;
 void loop() {
   count++;
