@@ -36,13 +36,13 @@ http://github.com/deaware/dwcloud_firmware_support/raw/master/package_deaware_in
 #### 3) Select COM Port that connected to DW.CLOUD.
 ![](http://128.199.203.210/dwcloud_support/images/select_port.png)
 
-#### 4) Select binairy files of your firmware and set the address for each binary files.
+#### 4) Select binary files of your firmware and set the address for each binary files.
 ![](http://128.199.203.210/dwcloud_support/images/select_bin.png)
 
 #### 5) Select the BAUDRATE for uploading to 115200.
 ![](http://128.199.203.210/dwcloud_support/images/select_baud.png)
 
-#### 6) Hold the "Flash Switch" in follow in picthre below and press flash in ESP8266Flasher.
+#### 6) Hold the "Flash Switch" following in picture below and press flash in ESP8266Flasher.
 ![](http://128.199.203.210/dwcloud_support/images/hold_button.png)
 ![](http://128.199.203.210/dwcloud_support/images/click_flash.png)
 
