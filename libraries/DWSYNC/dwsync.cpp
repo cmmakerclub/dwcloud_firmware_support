@@ -63,7 +63,8 @@ void DW_SYNC::send(uint8_t cmd, uint8_t data[], uint8_t len) {
 	_serial->write(START_BYTE);
 	_serial->write(cmd);
 	while( i < _len ) {
-		_serial->print(data[i]);
+		_serial->write(data[i]);
+		i++;
 	}
 	_serial->write(STOP_BYTE);
 }
