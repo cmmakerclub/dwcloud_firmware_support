@@ -110,6 +110,31 @@
           ]
         },
         {
+          "name": "DW.CLOUD",
+          "architecture": "avr",
+          "version": "1.0.4",
+          "category": "Deaware",
+          "url": "http://github.com/deaware/dwcloud_firmware_support/raw/master/output/dwcloud-1.0.4.zip",
+          "archiveFileName": "dwcloud-1.0.4.zip",
+          "checksum": "SHA-256:b59fe9b3988b0c0b510daaf6198168a81ebf77a09b40deff0a9f9e4d646d476f",
+          "size": "179998",
+          "boards": [
+            {"name": "DW.CLOUD"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+        {
           "name":"ESP8266",
           "architecture":"esp8266",
           "version":"1.6.2",
